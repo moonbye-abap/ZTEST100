@@ -6,4 +6,5 @@
 REPORT ZTEST101.
 
 START-OF-SELECTION.
-  write : 'hello world'.
+  write : 'hello '.
+  write : 'world'.
